@@ -1,7 +1,7 @@
-### Hi there, i'm Klappstuhl
+### 👋 Hi there, i'm Klappstuhl
 #### I'm a student from Germany who likes to code.</br> My main coding language is [python](https://python.org).
 
-<p align="center">
+<p align="left">
   <a href="https://discord.com/users/991398932397703238" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Contact for help.">
   </a>
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ### Spotify
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31laz4bl3dsln45aksjemrqnvv54&cover_image=true&theme=novatorem&bar_color=4e5eb1&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31laz4bl3dsln45aksjemrqnvv54&redirect=true)
 
-### 🏆 GitHub Profile Trophy:
+### 🏆 My Github Trophy's:
 <center>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img width=800 src="https://github-profile-trophy.vercel.app/?username=klappstuhlpy&column=8&theme=discord&no-frame=true&no-bg=true"/>
