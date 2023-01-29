@@ -14,22 +14,9 @@
 
 <center>
       <a href='https://discord.gg/sxCvreh6n6'>
-        <img src="https://discord.c99.nl/widget/theme-1/991398932397703238.png" style='codding 5px'>
+        <img src="https://discord.c99.nl/widget/theme-5/991398932397703238.png" style='codding 5px'>
       </a>
     </center>
-
-<!--
-**mccoderpy/mccoderpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ### What do I do?
 
