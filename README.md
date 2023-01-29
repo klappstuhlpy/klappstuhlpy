@@ -10,14 +10,7 @@
   </a>
 </p>
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/[ICON SLUG].svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/[ICON SLUG].svg" />
-
 <!--
-​![​status​](https://dev.discordprofiles.me/badge/status/991398932397703238) 
-​![​playing​](https://dev.discordprofiles.me/badge/playing/991398932397703238) 
-​![​PyCharm​](https://dev.discordprofiles.me/badge/pycharm/991398932397703238) 
-[![​spotify​](https://dev.discordprofiles.me/badge/spotify/991398932397703238)](https://dev.discordprofiles.me/openspotify/991398932397703238)
 **mccoderpy/mccoderpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
@@ -34,7 +27,12 @@ Here are some ideas to get you started:
 
 - 🤖 I’m currently working on my public a Music Bot called [Claude](https://discord.com/api/oauth2/authorize?client_id=1062083962773717053&permissions=140953119856&scope=bot%20applications.commands)
 
-### Spotify Listening
+### Listening
+​![​status​](https://dev.discordprofiles.me/badge/status/991398932397703238) 
+​![​playing​](https://dev.discordprofiles.me/badge/playing/991398932397703238) 
+​![​PyCharm​](https://dev.discordprofiles.me/badge/pycharm/991398932397703238) 
+[![​spotify​](https://dev.discordprofiles.me/badge/spotify/991398932397703238)](https://dev.discordprofiles.me/openspotify/991398932397703238)
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31laz4bl3dsln45aksjemrqnvv54&cover_image=true&theme=novatorem&bar_color=4e5eb1&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31laz4bl3dsln45aksjemrqnvv54&redirect=true)
 
 ### 🏆 My Github Trophy's:
