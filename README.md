@@ -1,6 +1,9 @@
 ### 👋 Hi there, i'm Klappstuhl
 #### I'm a student from Germany who likes to code.</br> My main coding language is [python](https://python.org).
 
+### ❓ How to get in contact with me?
+#### Click on the Discord Button and send me a DM!
+
 <p align="left">
   <a href="https://discord.com/users/991398932397703238" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Contact for help.">
@@ -24,11 +27,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### What do I do currently?
+### What do I do?
 
 🤖 I’m currently working on my public a Music Bot called [Claude](https://discord.com/api/oauth2/authorize?client_id=1062083962773717053&permissions=140953119856&scope=bot%20applications.commands)
 
-### Spotify
+### Spotify Listening
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31laz4bl3dsln45aksjemrqnvv54&cover_image=true&theme=novatorem&bar_color=4e5eb1&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31laz4bl3dsln45aksjemrqnvv54&redirect=true)
 
 ### 🏆 My Github Trophy's:
