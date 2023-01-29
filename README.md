@@ -12,6 +12,12 @@
 
 [Discord](https://discord.com): [`Klappstuhl#0001`](https://discord.com/users/991398932397703238)
 
+<center>
+      <a href='https://discord.gg/sxCvreh6n6'>
+        <img src="https://discord.c99.nl/widget/theme-1/991398932397703238.png" style='codding 5px'>
+      </a>
+    </center>
+
 <!--
 **mccoderpy/mccoderpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
