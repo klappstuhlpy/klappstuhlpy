@@ -23,9 +23,7 @@
 - 🤖 I’m currently working on my public a Music Bot called [Claude](https://discord.com/api/oauth2/authorize?client_id=1062083962773717053&permissions=140953119856&scope=bot%20applications.commands)
 
 ### Listening
-[![​spotify​](https://dev.discordprofiles.me/badge/spotify/991398932397703238)](https://dev.discordprofiles.me/openspotify/991398932397703238)
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31laz4bl3dsln45aksjemrqnvv54&cover_image=true&theme=novatorem&bar_color=4e5eb1&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31laz4bl3dsln45aksjemrqnvv54&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31laz4bl3dsln45aksjemrqnvv54&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ### 🏆 My Github Trophy's:
 <center>
