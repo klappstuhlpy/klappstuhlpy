@@ -29,9 +29,9 @@
 ### Listening
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31laz4bl3dsln45aksjemrqnvv54&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-### 🏆 My Github Trophy's:
+### My Github Stats
 <p align="left>
   <a href="https://github.com/klappstuhlpy/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klappstuhlpy&theme=tokyonight&card_width=445&layout=compact" />
-  </a>>
+  </a>
 </p>
