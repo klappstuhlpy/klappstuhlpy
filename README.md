@@ -20,7 +20,7 @@
 
 ### What do I do?
 
-- 🤖 I’m currently working on my public a Music Bot called [Claude](https://discord.com/api/oauth2/authorize?client_id=1062083962773717053&permissions=140953119856&scope=bot%20applications.commands)
+- 🤖 I’m currently working on my public a Music Bot called [Robo Hashira](https://discord.com/api/oauth2/authorize?client_id=1062083962773717053&permissions=140953119856&scope=bot%20applications.commands)
 
 <a href="https://top.gg/bot/1062083962773717053">
   <img src="https://top.gg/api/widget/upvotes/1062083962773717053.svg">
