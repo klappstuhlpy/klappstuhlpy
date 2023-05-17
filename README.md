@@ -10,7 +10,7 @@
   </a>
 </p>
 
-[Discord](https://discord.com): [`Klappstuhl#0001`](https://discord.com/users/991398932397703238)
+[Discord](https://discord.com): [`Parzival#5432`](https://discord.com/users/991398932397703238)
 
 <center>
       <a href='https://discord.gg/sxCvreh6n6'>
