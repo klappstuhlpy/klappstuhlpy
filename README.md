@@ -1,4 +1,4 @@
-### 👋 Hi there, i'm Klappstuhl
+### 👋 Hi there, i'm Parzival
 #### I'm a student from Germany who likes to code.</br> My main coding language is [python](https://python.org).
 
 ### ❓ How to get in contact with me?
