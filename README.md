@@ -10,7 +10,7 @@
   </a>
 </p>
 
-[Discord](https://discord.com): [`klappstuhl65`](https://discord.com/users/991398932397703238)
+=> Discord: [`klappstuhl65`](https://discord.com/users/991398932397703238)
 
 ### Listening
 <center>
